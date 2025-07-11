@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Baba Nyonya Q-Sort</title>
+  <script src="https://unpkg.com/vue@2.6.14/dist/vue.min.js"></script>
+  <script src="https://unpkg.com/htmlq@1.1.0/dist/htmlq.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/htmlq@1.1.0/dist/htmlq.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div id="app">
+    <htmlq :config="config"></htmlq>
+  </div>
+
+  <script>
+    fetch("config.json")
+      .then(response => response.json())
+      .then(json => {
+        new Vue({
+          el: "#app",
+          data: {
+            config: json
+          }
+        });
+      });
+  </script>
+</body>
+</html>

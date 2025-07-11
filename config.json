@@ -1,0 +1,136 @@
+{
+  "instructions": "Sort the statements into the grid based on how much you agree or disagree.",
+  "statements": [
+    {
+      "id": 1,
+      "text": "I would buy Baba Nyonya-inspired items if they are modernized and easier to wear."
+    },
+    {
+      "id": 2,
+      "text": "Knowing the meaning behind motifs like the phoenix or peony makes Baba Nyonya designs more meaningful."
+    },
+    {
+      "id": 3,
+      "text": "Modern renovations that ignore heritage guidelines threaten the authenticity of Baba Nyonya neighborhoods."
+    },
+    {
+      "id": 4,
+      "text": "Too many traditional patterns in one space can feel visually overwhelming"
+    },
+    {
+      "id": 5,
+      "text": "Traditional decorations with rich colors bring joy to the environment."
+    },
+    {
+      "id": 6,
+      "text": "I think Baba Nyonya tiles are too complicated for modern interior design."
+    },
+    {
+      "id": 7,
+      "text": "I'm more attracted to traditional decor when it is mixed with modern styles."
+    },
+    {
+      "id": 8,
+      "text": "While I appreciate the craftsmanship, I wouldn\u2019t use it in my own space."
+    },
+    {
+      "id": 9,
+      "text": "I prefer minimalist designs; traditional elements often make a space feel cluttered."
+    },
+    {
+      "id": 10,
+      "text": "Baba Nyonya culture is undervalued because it is not promoted enough in modern media and design."
+    },
+    {
+      "id": 11,
+      "text": "More organizations should support Baba Nyonya art and fashion to preserve the culture."
+    },
+    {
+      "id": 12,
+      "text": "Peranakan identity is hybrid and ever-evolving, not fixed in time."
+    },
+    {
+      "id": 13,
+      "text": "Cultural mixing\u2014not dilution\u2014defines the uniqueness and vitality of Baba Nyonya heritage."
+    },
+    {
+      "id": 14,
+      "text": "We should celebrate \u2018orphan\u2019 or \u2018bastard\u2019 artifacts that don\u2019t fit standard cultural narratives."
+    },
+    {
+      "id": 15,
+      "text": "Some people see using historical decor as a form of cultural performance rather than genuine identity."
+    },
+    {
+      "id": 16,
+      "text": "Strict preservation of heritage buildings helps maintain a meaningful cultural environment."
+    },
+    {
+      "id": 17,
+      "text": "Antique decor from our grandparents carries our cultural memories."
+    },
+    {
+      "id": 18,
+      "text": "Peranakan-style elements make me reflect on my Chinese heritage."
+    },
+    {
+      "id": 19,
+      "text": "Inconsistent guidelines between heritage cities weaken efforts to protect shared cultural identity."
+    },
+    {
+      "id": 20,
+      "text": "Cultural tourism can flourish only when historical integrity is properly safeguarded."
+    },
+    {
+      "id": 21,
+      "text": "Young people today are not very familiar with Baba Nyonya traditional fashion and design."
+    },
+    {
+      "id": 22,
+      "text": "Handcrafted Baba Nyonya items are difficult to sell online because of sizing and fit issues."
+    },
+    {
+      "id": 23,
+      "text": "Products inspired by Baba Nyonya culture are too expensive for everyday consumers."
+    },
+    {
+      "id": 24,
+      "text": "I would recommend others to incorporate Baba Nyonya decor in their homes."
+    },
+    {
+      "id": 25,
+      "text": "I feel Baba Nyonya decor is only suitable for cultural events, not everyday life."
+    }
+  ],
+  "distribution": [
+    {
+      "score": 3,
+      "count": 2
+    },
+    {
+      "score": 2,
+      "count": 3
+    },
+    {
+      "score": 1,
+      "count": 5
+    },
+    {
+      "score": 0,
+      "count": 5
+    },
+    {
+      "score": -1,
+      "count": 5
+    },
+    {
+      "score": -2,
+      "count": 3
+    },
+    {
+      "score": -3,
+      "count": 2
+    }
+  ],
+  "language": "en"
+}
