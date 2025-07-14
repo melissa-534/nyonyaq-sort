@@ -17,13 +17,8 @@
   <script>
     fetch("./config.json")
       .then(response => response.json())
-      .then(json => {
-        new Vue({
-          el: "#app",
-          data: {
-            config: json
-          }
-        });
+      .then(data => {
+        //use data
       });
   </script>
 </body>
